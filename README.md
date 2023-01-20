@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DrLemon75
 - 👀 I’m interested in acquiring a minimum accetable programming level according to the IT industry standard so as to "decode" system thinking in coding terms  
-- 🌱 I’m currently learning Pyhton for data science, specialy machine learning and deep learning 
-- 💞️ I’m looking to collaborate on projects for data science 
+- 🌱 I’m currently learning Pyhton for data science (machine learning and deep learning) and some basic courses on Quantum Information Systems (QIS)   
+- 💞️ I’m looking to collaborate on projects related to system thinking 
 - 📫 How to reach me: send an email to nspersico@hotmail.com
 
 <!---
